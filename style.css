@@ -57,7 +57,7 @@ p{
     clip-path: circle(600px at right 800px);
 }
 .starbuck{
-    z-index: 9;
+    z-index: 2;
     width: 340px;
 }
 .logo{
